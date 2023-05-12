@@ -1,6 +1,6 @@
 # Shortcuts-Reference
 
-### Windows-Shortcuts-Reference
+### Windows-Shortcuts-Collection
 <details> 
 <summary><h2><b>for windows 10</b></h2></summary> 
 <p>
@@ -26,7 +26,12 @@
 | Win + + | 放大螢幕 | Win + - | 縮小螢幕 |
 | Ctrl + Shift + Esc | 工作管理員 | Ctrl + Alt + Del | 打開 Win 作業系統的任務管理器 
 | 滑鼠中鍵 | 開啟新的瀏覽器標籤 | 滑鼠中鍵 | 關閉瀏覽器標籤 |
-
+| Ctrl + S | 儲存當前文檔或檔案 | Ctrl + P | 列印當前文檔或網頁 |
+| Ctrl + T | 在瀏覽器中打開新的分頁 | Ctrl + N | 在瀏覽器或應用程式中開啟新視窗或文檔 |
+| Ctrl + W | 關閉當前視窗或分頁 | Ctrl + Tab | 在瀏覽器中切換到下一個分頁 |
+| Ctrl + Shift + T | 在瀏覽器中重新打開最近關閉的分頁 | Ctrl + F5 | 強制刷新網頁並清除緩存 |
+| Ctrl + Shift + N | 在檔案總管中建立新資料夾 | Ctrl + N | 開啟相同的新視窗 |
+  
 </p>
 </details>
 
