@@ -1,4 +1,4 @@
-# Window10
+# Windows-Shortcuts-Reference
 
 | 快捷鍵 | 功能 | 快捷鍵 | 功能 |
 | :-: | :-: | :-: | :-: |
