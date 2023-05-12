@@ -3,7 +3,7 @@
 ## Windows-Shortcuts-Collection
 
 <details> 
-<summary><h2><b>for windows 10</b></h2></summary> 
+<summary><h2><b>windows 10</b></h2></summary> 
 <p>
   
 |快捷鍵|功能|快捷鍵|功能|
@@ -40,7 +40,7 @@
 ## IDE-Shortcuts-Collection
 
 <details> 
-<summary><h2><b>for Code::Blocks</b></h2></summary> 
+<summary><h2><b>Code::Blocks</b></h2></summary> 
 <p>
   
 |快捷鍵|功能|快捷鍵|功能|
@@ -62,7 +62,7 @@
 </details>
 
 <details> 
-<summary><h2><b>for Visual Studio</b></h2></summary> 
+<summary><h2><b>Visual Studio</b></h2></summary> 
 <p>
   
 | 快捷鍵 | 功能 | 快捷鍵 | 功能 |
@@ -86,7 +86,7 @@
 </details>
 
 <details> 
-<summary><h2><b>for Visual Studio Code</b></h2></summary> 
+<summary><h2><b>Visual Studio Code</b></h2></summary> 
 <p>
   
 | 快捷鍵 | 功能 | 快捷鍵 | 功能 |
@@ -110,7 +110,7 @@
 </details>
 
 <details> 
-<summary><h2><b>for Nodepad++</b></h2></summary> 
+<summary><h2><b>Nodepad++</b></h2></summary> 
 <p>
   
 | 快捷鍵 | 功能 | 快捷鍵 | 功能 |
@@ -136,7 +136,7 @@
 </details>
 
 <details> 
-<summary><h2><b>for Eclpise</b></h2></summary> 
+<summary><h2><b>Eclpise</b></h2></summary> 
 <p>
   
 | 快捷鍵 | 功能 | 快捷鍵 | 功能 |
@@ -156,7 +156,7 @@
 </details>
 
 <details> 
-<summary><h2><b>for Pycharm</b></h2></summary> 
+<summary><h2><b>Pycharm</b></h2></summary> 
 <p>
   
 
@@ -179,7 +179,7 @@
 </details>
 
 <details> 
-<summary><h2><b>for Jupyter</b></h2></summary> 
+<summary><h2><b>Jupyter</b></h2></summary> 
 <p>
   
 | 快捷鍵 | 功能 | 快捷鍵 | 功能 |
