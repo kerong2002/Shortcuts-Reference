@@ -1,6 +1,6 @@
 # Shortcuts-Reference
 
-## Windows-Shortcuts-Reference
+### Windows-Shortcuts-Reference
 <details> 
 <summary><h2><b>for windows 10</b></h2></summary> 
 <p>
@@ -31,4 +31,4 @@
 </details>
 
 
-## IDE-Shortcuts-Collection
+### IDE-Shortcuts-Collection
