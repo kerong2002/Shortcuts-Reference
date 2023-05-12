@@ -1,6 +1,6 @@
 # Shortcuts-Reference
 
-### Windows-Shortcuts-Collection
+## Windows-Shortcuts-Collection
 
 <details> 
 <summary><h2><b>for windows 10</b></h2></summary> 
@@ -37,7 +37,7 @@
 </details>
 
 
-### IDE-Shortcuts-Collection
+## IDE-Shortcuts-Collection
 
 <details> 
 <summary><h2><b>for Code::Blocks</b></h2></summary> 
