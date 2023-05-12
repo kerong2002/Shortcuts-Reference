@@ -1,7 +1,10 @@
 # Shortcuts-Reference
 
 ## Windows-Shortcuts-Reference
-### for winodws 10
+<details> 
+<summary><h2><b>for windows 10</b></h2></summary> 
+<p>
+  
 | 快捷鍵 | 功能 | 快捷鍵 | 功能 |
 | :-: | :-: | :-: | :-: |
 | Ctrl + C | 複製選中的內容 |Ctrl + X |  剪切選中的內容 |
@@ -23,5 +26,9 @@
 | Win + + | 放大螢幕 | Win + - | 縮小螢幕 |
 | Ctrl + Shift + Esc | 工作管理員 | Ctrl + Alt + Del | 打開 Win 作業系統的任務管理器 
 | 滑鼠中鍵 | 開啟新的瀏覽器標籤 | 滑鼠中鍵 | 關閉瀏覽器標籤 |
+
+</p>
+</details>
+
 
 ## IDE-Shortcuts-Collection
