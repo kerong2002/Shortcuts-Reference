@@ -1,6 +1,7 @@
 # Shortcuts-Reference
 
 ### Windows-Shortcuts-Collection
+
 <details> 
 <summary><h2><b>for windows 10</b></h2></summary> 
 <p>
@@ -37,3 +38,162 @@
 
 
 ### IDE-Shortcuts-Collection
+
+<details> 
+<summary><h2><b>for Code::Blocks</b></h2></summary> 
+<p>
+  
+|快捷鍵|功能|快捷鍵|功能|
+|:-:|:-:|:-:|:-:|
+| Ctrl + N | 新建檔案 | Ctrl + O | 開啟檔案 |
+| Ctrl + S | 儲存檔案 | Ctrl + Shift + S | 另存新檔 |
+| Ctrl + Shift + N | 新建專案 | Ctrl + Alt + F | 格式化程式碼 |
+| F9 | 編譯程式碼 | Ctrl + F9 | 編譯並執行程式碼 |
+| F10 | 逐行執行程式碼 | F11 | 進入函數 |
+| Shift + F11 | 跳出函數 | Ctrl + Shift + F11 | 跳出所有函數 |
+| Ctrl + F10 | 停止執行程式碼 | Ctrl + F11 | 切換斷點 |
+| Ctrl + Shift + F11 | 刪除所有斷點 | Ctrl + G | 跳轉到指定行 |
+| Ctrl + A | 全選程式碼 | Ctrl + C | 複製程式碼 |
+| Ctrl + V | 粘貼程式碼 | Ctrl + X | 剪下程式碼 |
+| Ctrl + Z | 恢復上一步操作 | Ctrl + Y | 取消恢復操作 |
+
+  
+</p>
+</details>
+
+<details> 
+<summary><h2><b>for Visual Studio</b></h2></summary> 
+<p>
+  
+| 快捷鍵 | 功能 | 快捷鍵 | 功能 |
+| :-: | :-: | :-: | :-: |
+| Ctrl + K + C | 註解代碼塊 | Ctrl + K + U | 取消註解 |
+| Ctrl + X | 剪下代碼或文本 | Ctrl + C | 複製代碼或文本 |
+| Ctrl + V | 粘貼最近的代碼或文本 | Ctrl + Z | 撤銷操作 |
+| Ctrl + Shift + Z 或 Ctrl + Y | 恢復操作 | Ctrl + F | 尋找文本或代碼 |
+| Ctrl + H | 替換文本或代碼 | Ctrl + Shift + B | 編譯項目 |
+| Ctrl + Shift + F | 全文搜索 | Ctrl + Shift + N | 新建文件夾 |
+| Ctrl + Shift + S | 另存當前文件 | F5 | 開始調試程序 |
+| F10 | 逐行執行 | F11 | 進入方法或函數內部 |
+| Shift + F11 | 從方法或函數退出 | Ctrl + Shift + Enter | 插入新行 |
+| Ctrl + Shift + L | 拆分代碼塊 | Alt + Enter | 顯示建議或錯誤 |
+| Ctrl + K + D | 格式化代碼 | Ctrl + K + F | 格式化整個文檔 |
+| Ctrl + K + S | 鍵盤快捷鍵選項 |  Ctrl + . | 顯示建議列表或修復錯誤 |
+| Ctrl + K + U | 小寫 | Ctrl + K + Shift + U | 大寫 |
+| Ctrl + Shift + L | 選中當前行或單詞 | Ctrl + Shift + Space | 顯示參數列表 |
+  
+</p>
+</details>
+
+<details> 
+<summary><h2><b>for Visual Studio Code</b></h2></summary> 
+<p>
+  
+| 快捷鍵 | 功能 | 快捷鍵 | 功能 |
+| :-: | :-: | :-: | :-: |
+| Ctrl + Shift + P | 打開命令面板 | Ctrl + P | 快速開啟檔案 |
+| Ctrl + Shift + N | 新增未命名檔案 | Ctrl + S | 儲存檔案 |
+| Ctrl + X | 剪下一行或選取範圍 | Ctrl + C | 複製一行或選取範圍 |
+| Ctrl + V | 貼上 | Ctrl + Z | 復原 |
+| Ctrl + Shift + Z | 重做 | Ctrl + F | 尋找 |
+| Ctrl + H | 取代 | Ctrl + G | 跳轉到行 |
+| Ctrl + F2 | 選取所有出現的文字 | Ctrl + / | 切換行註解 |
+| Shift + Alt + F | 格式化檔案 | Alt + Up/Down | 移動一行 |
+| Alt + Shift + Up/Down | 複製一行 | F2 | 重命名符號 |
+| Ctrl + Shift + \\ | 在檔案中跳轉至匹配的括號 | Ctrl + \` | 打開終端機 |
+| Ctrl + Shift + O | 跳轉至符號 | F12 | 跳轉至定義 |
+| Alt + F12 | 在新視窗中顯示定義 | Shift + F12 | 顯示參考 |
+| Ctrl + K Ctrl + C | 加註選取範圍 | Ctrl + K Ctrl + U | 取消加註選取範圍 |
+| Ctrl + \[ | 縮排選取範圍 | Ctrl + \] | 解除縮排選取範圍 |
+  
+</p>
+</details>
+
+<details> 
+<summary><h2><b>for Nodepad++</b></h2></summary> 
+<p>
+  
+| 快捷鍵 | 功能 | 快捷鍵 | 功能 |
+| :-: | :-: | :-: | :-: |
+| Ctrl + N | 新建檔案 | Ctrl + O | 開啟檔案 |
+| Ctrl + S | 儲存檔案 | Ctrl + Shift + S | 另存新檔 |
+| Ctrl + Z | 復原 | Ctrl + Y | 重做 |
+| Ctrl + X | 剪下 | Ctrl + C | 複製 |
+| Ctrl + V | 貼上 | Ctrl + A | 全選 |
+| Ctrl + F | 尋找 | Ctrl + H | 取代 |
+| Ctrl + P | 列印 | Ctrl + Home | 游標移至檔案開頭 |
+| Ctrl + End | 游標移至檔案結尾 | Ctrl + Left Arrow | 游標向左移動一個單字 |
+| Ctrl + Right Arrow | 游標向右移動一個單字 | Ctrl + Backspace | 刪除游標前一個單字 |
+| Ctrl + Delete | 刪除游標後一個單字 | Ctrl + Tab | 在多個檔案之間切換 |
+| Ctrl + Shift + Tab | 在多個檔案之間切換（反向） | F3 | 尋找下一個符合項目 |
+| Shift + F3 | 尋找上一個符合項目 | F5 | 重新整理 |
+| Ctrl + F5 | 強制重新整理 | Alt + F4 | 關閉 Nodepad |
+| Ctrl + F4 | 關閉目前文件 | F1 | 說明 |
+| F11 | 切換全螢幕模式 | Ctrl + Plus Sign (+) | 增大字體 |
+| Ctrl + Minus Sign (-) | 縮小字體 | Ctrl + 0 | 預設字體大小 |
+  
+</p>
+</details>
+
+<details> 
+<summary><h2><b>for Eclpise</b></h2></summary> 
+<p>
+  
+| 快捷鍵 | 功能 | 快捷鍵 | 功能 |
+| :-: | :-: | :-: | :-: |
+| Ctrl + S | 儲存檔案 | Ctrl + C | 複製選取的內容 |
+| Ctrl + X | 剪下選取的內容 | Ctrl + V | 貼上已複製或剪下的內容 |
+| Ctrl + Z | 復原上一步操作 | Ctrl + F | 在檔案中搜尋關鍵字 |
+| Ctrl + Shift + F | 格式化程式碼 | Ctrl + Shift + O | 匯入所需的類別 |
+| Ctrl + / | 將所選行或所在位置的程式碼注釋 | Alt + Shift + R | 重命名選取的元素 |
+| Ctrl + Shift + T | 開啟類或檔案 | Ctrl + Shift + F11 | 執行最後一次執行的程式 |
+| Ctrl + Shift + C | 複製所選元素的完整限定名 | Alt + Shift + J | 加入/編輯 JavaDoc |
+| Alt + Shift + S | 打開Source菜單 | Alt + Shift + X, J | 執行Java應用程序 |
+| F11 | 執行或偵錯程式 | Shift + F11 | 停止執行程式 |
+
+  
+</p>
+</details>
+
+<details> 
+<summary><h2><b>for Pycharm</b></h2></summary> 
+<p>
+  
+
+| 快捷鍵 | 功能 | 快捷鍵 | 功能 |
+| :-: | :-: | :-: | :-: |
+| Ctrl + S | 儲存檔案 | Ctrl + C | 複製選取的內容 |
+| Ctrl + X | 剪下選取的內容 | Ctrl + V | 貼上已複製或剪下的內容 |
+| Ctrl + Z | 復原上一步操作 | Ctrl + Shift + F | 尋找和取代 |
+| Ctrl + F | 在檔案中搜尋關鍵字 | Alt + Enter | 顯示建議的修正選項 |
+| Ctrl + Shift + S | 儲存所有檔案 | Shift + F6 | 重新命名選取的元素 |
+| Ctrl + D | 複製所選行或所在位置的程式碼 | Ctrl + / | 將所選行或所在位置的程式碼注釋 |
+| Ctrl + Shift + Enter | 自動填寫程式碼 | Alt + F7 | 找出選定的符號的使用 |
+| Ctrl + Alt + L | 格式化程式碼 | Ctrl + Alt + O | 刪除未使用的引用 |
+| Ctrl + Alt + T | 包圍程式碼 | Ctrl + Alt + V | 自動導入模組 |
+| Shift + F10 | 執行程式 | Shift + F9 | 執行程式並進行偵錯 |
+| Ctrl + Shift + F10 | 執行上一次執行的程式 | Ctrl + Shift + F9 | 以偵錯模式執行上一次執行的程式 |
+
+  
+</p>
+</details>
+
+<details> 
+<summary><h2><b>for Jupyter</b></h2></summary> 
+<p>
+  
+| 快捷鍵 | 功能 | 快捷鍵 | 功能 |
+| :-: | :-: | :-: | :-: |
+| Enter | 編輯當前儲存格 | Shift + Enter | 執行當前儲存格並選中下一個儲存格 |
+| Ctrl + Enter | 執行當前儲存格 | Alt + Enter | 執行當前儲存格並在下方插入新的儲存格 |
+| Esc | 退出編輯模式 | A | 在當前儲存格上方插入新的儲存格 |
+| M | 把當前儲存格轉換成 Markdown 格式 | B | 在當前儲存格下方插入新的儲存格 |
+| Y | 把當前儲存格轉換成程式碼格式 | D + D | 刪除當前儲存格 |
+| Shift + M | 合併選中的儲存格 | Z | 恢復刪除的儲存格 |
+| Ctrl + Z | 撤銷最近的操作 | Shift + Tab | 顯示當前方法或函數的文檔註釋 |
+| Ctrl + Shift + Z 或 Ctrl + Y | 恢復上一步撤銷的操作 | Ctrl + Shift + - | 把當前儲存格在游標處分成兩個儲存格 |
+| Tab | 代碼補全 | Shift + Tab | 顯示當前方法或函數的文檔註釋 |
+| Shift + Tab | 在方法或函數後面加上問號可以查看函數的幫助文檔 | Ctrl + S | 儲存當前 Notebook |
+  
+</p>
+</details>
