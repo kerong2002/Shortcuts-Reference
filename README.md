@@ -36,6 +36,54 @@
 </p>
 </details>
 
+## Chrome-Shortcuts-Collection
+
+<details> 
+<summary><h2><b>Chrome</b></h2></summary> 
+<p>
+  
+| 動作 | 快速鍵 |
+| :-: | :-: |
+| 開啟新視窗 | Ctrl + N |
+| 以無痕模式開啟新視窗 | Ctrl + Shift + N |
+| 開啟並切換至新分頁 | Ctrl + T |
+| 切換至下一個開啟的分頁 | Ctrl + Tab |
+| 切換至上一個開啟的分頁 | Ctrl + Shift + Tab |
+| 關閉目前的分頁 | Ctrl + W 或 Ctrl + F4 |
+| 關閉目前的視窗 | Ctrl + Shift + W 或 Alt + F4 |
+| 將目前的視窗縮到最小 | 先按 Alt + Space + N |
+| 將目前的視窗放到最大 | 先按 Alt + Space + X |
+| 將分頁向右或向左移動 | Ctrl + Shift + PgUp 或 PgDn |
+| 顯示或隱藏書籤列 | Ctrl + Shift + B |
+| 開啟「書籤管理員」 | Ctrl + Shift + O |
+| 在新分頁中開啟「歷史記錄」頁面 | Ctrl + H |
+| 在新分頁中開啟「下載」頁面 | Ctrl + J |
+| 開啟「Chrome 工作管理員」 | Shift + Esc |
+| 開啟搜尋列以便搜尋目前的網頁內容 | Ctrl + F 或 F3 |
+| 跳至下一個搜尋列查詢 | Ctrl + G |
+| 跳至上一個搜尋列查詢 | Ctrl + Shift + G |
+| 開啟「開發人員工具」 | Ctrl + Shift + J 或 F12 |
+| 切換到網址列 | Ctrl + L 或 Alt + D 或 F6 |
+| 移除網址列中的預測查詢字串 | Shift + Delete |
+| 開啟列印目前網頁的選項 | Ctrl + P |
+| 開啟儲存目前網頁的選項 | Ctrl + S |
+| 重新載入目前網頁 | F5 或 Ctrl + R |
+| 重新載入目前的網頁，略過已快取 | Shift + F5 或 Ctrl + Shift + R |
+| 顯示目前網頁的 HTML 原始碼 (不可編輯) | Ctrl + U |
+| 將目前的網頁儲存為書籤 | Ctrl + D |
+| 將所有開啟的分頁儲存為新資料夾中的書籤 | Ctrl + Shift + D |
+| 開啟或關閉全螢幕模式 | F11 |
+| 放大網頁上的所有內容 | Ctrl + 加號 |
+| 縮小網頁上的所有內容 | Ctrl + 減號 |
+| 將網頁上的所有內容都恢復為預設大小 | Ctrl + 0 |
+| 向下捲動網頁，每次捲動一個螢幕畫面的範圍 | Space /  PgDn |
+| 向上捲動網頁，每次捲動一個螢幕畫面的範圍 | Shift + Space / PgUp |
+| 前往網頁頂端 | Home 鍵 |
+| 前往網頁底端 | End 鍵 |
+| 在網頁上水平捲動 | 按住 Shift 鍵並滾動滑鼠滾輪 |
+  
+</p>
+</details>
 
 ## IDE-Shortcuts-Collection
 
